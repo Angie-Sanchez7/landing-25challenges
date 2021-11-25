@@ -16,7 +16,7 @@ const Header = () => {
             <img className="logo" src="./assets/img/logo.png" alt="logo" />
             <nav className="menu" id="menu">
                 <a className="link" href="#search">Retos</a>
-                <a className="link"  href="https://angie-sanchez7.github.io/portafolio/" target="blank">Portafolio</a>
+                <a className="link"  href="https://blissful-golick-1b3e42.netlify.app/" target="blank">Portafolio</a>
             </nav>
         </header>
 
